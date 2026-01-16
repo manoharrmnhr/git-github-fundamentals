@@ -1,4 +1,22 @@
-# Git & GitHub Fundamentals
-This repository is created as part of DevOps Task 2.
+# TASK 2: Git & GitHub Fundamentals
 
-branching practice changes from the feature branch
+## 📝 Objective
+This repository demonstrates the complete workflow of **Git and GitHub fundamentals**, including version control, branching, merging, rollback, and collaboration.  
+
+The goal is to provide a **real-world DevOps workflow** experience.
+
+---
+
+## 🛠️ Tools Used
+- **Primary:** Git, GitHub  
+- **Alternatives:** GitLab, Bitbucket  
+
+---
+
+## 1️⃣ Install Git & Configure User
+
+### 🔹 Install Git
+```bash
+sudo apt update
+sudo apt install git -y
+
